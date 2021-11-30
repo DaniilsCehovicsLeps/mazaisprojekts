@@ -2,11 +2,11 @@
 
 ## Apraksts
 
-tic tac toe spēle 2 spēlētājiem
+Student Management System
 
 ## Galvēnas funkcijas
 
-- Ievadīt tekstu
+- Strādat ar skaitļiem
 
 ## Izmantotās tehnoloģijas
 
