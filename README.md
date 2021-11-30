@@ -1,4 +1,4 @@
-# Tic Tac Toe Game Project
+# Student Management System
 
 ## Apraksts
 
